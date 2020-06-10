@@ -90,7 +90,7 @@ def insta_unfollowers(username, password, target):
 
     get_unfollowers(username, browser, target)
 
-    print("Fin Diddle diddly")
+    print("Finished")
     print("Close Browser")
     browser.close()
 
